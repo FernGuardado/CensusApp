@@ -1,0 +1,17 @@
+/* Figure Settings */
+figure {
+    margin: 50px 0;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color:rgb(204, 204, 204);
+    border-radius: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+/* paragraph settings */
+p {
+    color: black;
+    padding-left: 12px;
+    line-height: 2em;
+    text-indent: 2em;
+}
